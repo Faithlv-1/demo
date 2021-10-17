@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DependentLayout
+    xmlns:ohos="http://schemas.huawei.com/res/ohos"
+    ohos:height="match_parent"
+    ohos:width="match_parent"
+    ohos:orientation="vertical">
+    <StackLayout
+        ohos:id="$+id:mainstack"
+        ohos:height="match_parent"
+        ohos:width="match_parent"
+        ohos:above="$id:company_page_dl"
+        >
+    </StackLayout>
+    <DirectionalLayout
+        ohos:id="$+id:company_page_dl"
+        ohos:height="50vp"
+        ohos:width="match_parent"
+        ohos:orientation="horizontal"
+        ohos:align_parent_bottom="true"
+        >
+        <Button
+            ohos:id="$+id:main_home_btn"
+            ohos:width="0vp"
+            ohos:height="match_parent"
+            ohos:weight="1"
+            ohos:text="主页"
+            ohos:text_size="50"
+            >
+        </Button>
+        <Button
+            ohos:id="$+id:main_my_btn"
+            ohos:width="0vp"
+            ohos:height="match_parent"
+            ohos:weight="1"
+            ohos:text="我的"
+            ohos:text_size="50"
+            >
+        </Button>
+    </DirectionalLayout>
+</DependentLayout>

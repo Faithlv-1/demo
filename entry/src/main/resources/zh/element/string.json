@@ -1,0 +1,88 @@
+{
+  "string": [
+    {
+      "name": "entry_MainAbility",
+      "value": "entry_MainAbility"
+    },
+    {
+      "name": "mainability_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "mainability_HelloWorld",
+      "value": "你好，世界"
+    },
+    {
+      "name": "entry_Fraction",
+      "value": "entry_Fraction"
+    },
+    {
+      "name": "fraction_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "fraction_HelloWorld",
+      "value": "你好，世界"
+    },
+    {
+      "name": "entry_MeFraction",
+      "value": "entry_MeFraction"
+    },
+    {
+      "name": "mefraction_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "mefraction_HelloWorld",
+      "value": "你好，世界"
+    },
+    {
+      "name": "entry_FindFracthin",
+      "value": "entry_FindFracthin"
+    },
+    {
+      "name": "findfracthin_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "findfracthin_HelloWorld",
+      "value": "你好，世界"
+    },
+    {
+      "name": "entry_MainAbility2",
+      "value": "entry_MainAbility2"
+    },
+    {
+      "name": "mainability2_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "mainability2_HelloWorld",
+      "value": "你好，世界"
+    },
+    {
+      "name": "entry_HomeFraction",
+      "value": "entry_HomeFraction"
+    },
+    {
+      "name": "homefraction_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "homefraction_HelloWorld",
+      "value": "你好，世界"
+    },
+    {
+      "name": "entry_MyFraction",
+      "value": "entry_MyFraction"
+    },
+    {
+      "name": "myfraction_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "myfraction_HelloWorld",
+      "value": "你好，世界"
+    }
+  ]
+}
